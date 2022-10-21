@@ -4,4 +4,4 @@ git clone https://github.com/Rx-KING/Rx--Jishan
 
 cd Rx--Jishan
 
-python max.py
+python MAX.py
